@@ -1,0 +1,8 @@
+
+#EXTM3U
+
+#EXTINF-:-1, Win sport +
+http://cdn0402-03.telerium.site:2052/free05/938/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIwIDM6MzQ6MDggUE0maGFzaF92YWx1ZT1GTFpMWjZVYWY0SFU4UGs5WG9ENHFRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF-:-1, Bein sport
+http://23.237.78.50:8081/live-2/249/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIwIDM6Mzg6MjEgUE0maGFzaF92YWx1ZT15a0lTS2dMQmhxZXVLN0Rvd3ZzUGFBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
